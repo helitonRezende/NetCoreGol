@@ -1,0 +1,9 @@
+D:\testeAPI_consultoria\enviados\Heliton_Teste_Core\Heliton_Teste_Core\Atento.Repositorio_EntityFrameWork.Repositorio\bin\Debug\netcoreapp2.1\GOL.EntityFrameWork.Repositorio.deps.json
+D:\testeAPI_consultoria\enviados\Heliton_Teste_Core\Heliton_Teste_Core\Atento.Repositorio_EntityFrameWork.Repositorio\bin\Debug\netcoreapp2.1\GOL.EntityFrameWork.Repositorio.dll
+D:\testeAPI_consultoria\enviados\Heliton_Teste_Core\Heliton_Teste_Core\Atento.Repositorio_EntityFrameWork.Repositorio\bin\Debug\netcoreapp2.1\GOL.EntityFrameWork.Repositorio.pdb
+D:\testeAPI_consultoria\enviados\Heliton_Teste_Core\Heliton_Teste_Core\Atento.Repositorio_EntityFrameWork.Repositorio\obj\Debug\netcoreapp2.1\GOL.EntityFrameWork.Repositorio.csprojAssemblyReference.cache
+D:\testeAPI_consultoria\enviados\Heliton_Teste_Core\Heliton_Teste_Core\Atento.Repositorio_EntityFrameWork.Repositorio\obj\Debug\netcoreapp2.1\GOL.EntityFrameWork.Repositorio.csproj.CoreCompileInputs.cache
+D:\testeAPI_consultoria\enviados\Heliton_Teste_Core\Heliton_Teste_Core\Atento.Repositorio_EntityFrameWork.Repositorio\obj\Debug\netcoreapp2.1\GOL.EntityFrameWork.Repositorio.AssemblyInfoInputs.cache
+D:\testeAPI_consultoria\enviados\Heliton_Teste_Core\Heliton_Teste_Core\Atento.Repositorio_EntityFrameWork.Repositorio\obj\Debug\netcoreapp2.1\GOL.EntityFrameWork.Repositorio.AssemblyInfo.cs
+D:\testeAPI_consultoria\enviados\Heliton_Teste_Core\Heliton_Teste_Core\Atento.Repositorio_EntityFrameWork.Repositorio\obj\Debug\netcoreapp2.1\GOL.EntityFrameWork.Repositorio.dll
+D:\testeAPI_consultoria\enviados\Heliton_Teste_Core\Heliton_Teste_Core\Atento.Repositorio_EntityFrameWork.Repositorio\obj\Debug\netcoreapp2.1\GOL.EntityFrameWork.Repositorio.pdb

@@ -1,0 +1,52 @@
+<h1>Atualização tabela AIRPLANE</h1>
+
+<p *ngIf="!clientes"><em>Loading...</em></p>
+
+<form [formGroup]="form" (ngSubmit)="onSubmit()">
+  <input type="hidden" formControlName="id" />
+  <table>
+    <tr>
+      <td>
+        <label>Modelo:</label>
+      </td>
+      <td>
+        <input class="form-control" type="text" formControlName="modelo" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <label>Quantidade de Passageiros:</label>
+      </td>
+      <td>
+        <input class="form-control" type="number" formControlName="qtdepassageiro" />
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>
+        <button type="submit" class="btn" [disabled]="!form.valid">Salvar</button>
+      </td>
+    </tr>
+  </table>
+</form>
+
+<table class='table'>
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Modelo</th>
+      <th>Qtde.Passageiros</th>
+      <th>Data Criação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let cliente of clientes">
+      <td>{{cliente.id}}</td>
+      <td>{{cliente.modelo}}</td>
+      <td>{{cliente.qtdepassageiro}}</td>
+      <td>{{cliente.datacriacao}}</td>
+      <td><button class="btn" (click)="getClienteID(cliente.id)">Editar</button></td>
+    </tr>
+  </tbody>
+</table>
